@@ -97,6 +97,7 @@ form .entrada:first-child {
     outline: none;
     font-size: 0.9rem;
     color: rgba(0, 0, 0, 0.7);
+    width: 250px;
 }
 
 .entrada input::placeholder {
